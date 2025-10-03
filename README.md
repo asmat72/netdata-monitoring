@@ -1,5 +1,7 @@
 # netdata-monitoring
 - 🖥️ Monitor system resources using Netdata and Docker.
+- Clone the repository:  
+     `git clone https://github.com/asmat72/netdata-monitoring.git`
 - 📌 Objective:
      - This task demonstrates how to monitor system performance metrics using [Netdata](https://www.netdata.cloud/) deployed via Docker. Netdata provides real-time insights into CPU, memory, disk usage, and container activity through a rich web dashboard.
 - 🚀 Setup Instructions"
